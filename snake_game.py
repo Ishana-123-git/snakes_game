@@ -1,11 +1,4 @@
-"""
-Advanced Snake Game with AI and Multiple Game Modes
-A feature-rich Python game demonstrating OOP, algorithms, and game development
 
-Author: [Your Name]
-Technologies: Python, Pygame, Object-Oriented Programming, AI Algorithms
-Description: Classic Snake game with AI opponent, power-ups, levels, and persistent high scores
-"""
 
 import pygame
 import random
